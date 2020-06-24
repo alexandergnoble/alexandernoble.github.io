@@ -20,7 +20,7 @@
 
 title: Alexander Noble
 email: elbonxela@outlook.com
-description: >- # this means to ignore newlines until "baseurl:"
+description: >- 
   Computer Networks Graduate/Support Engineer. Especially interested in mechanical keyboards and indoor plants. Occasional about all walks of life.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://alexandernoble.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
