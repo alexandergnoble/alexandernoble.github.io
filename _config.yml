@@ -19,13 +19,14 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Alexander Noble
-email: alexander.noble1@outlook.com
+email: elbonxela@outlook.com
 description: >- # this means to ignore newlines until "baseurl:"
   Computer Networks Graduate/Support Engineer. Especially interested in mechanical keyboards and indoor plants. Occasional about all walks of life.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://alexandernoble.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  alexandernoble
 linkedin_username:  alexandernoble98
+youtube_username: elbon
 
 # Build settings
 theme: minima
