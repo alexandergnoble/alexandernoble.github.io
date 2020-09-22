@@ -17,7 +17,7 @@ permalink: /contact/
       <br><br>
       <div class="form-group">
         <label for="InputMessage">Message</label>
-          <textarea id="message" name="Message" class="form-control" rows="4" cols="50" placeholder="Enter your message" required="required" display: block; margin-bottom: 10px;></textarea>
+          <textarea id="message" name="Message" class="form-control" rows="4" cols="50" placeholder="Enter your message" required="required"></textarea>
       </div>
       <br>
       <button type="submit" class="btn btn-primary">Submit</button>
