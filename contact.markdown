@@ -15,13 +15,7 @@ permalink: /contact/
       </div>
       <div class="form-group">
         <label for="InputMessage">Message</label>
-        <input type="text" name="message" class="form-control" id="InputMessage" placeholder="Enter your message" required="required">
+          <textarea id="message" name="Message" class="form-control" rows="4" cols="50" placeholder="Enter your message" required="required"></textarea>
       </div>
-      <hr>
-      <div class="form-group mt-3">
-        <label class="mr-2">Upload your CV:</label>
-        <input type="file" name="file">
-      </div>
-      <hr>
       <button type="submit" class="btn btn-primary">Submit</button>
     </form>
