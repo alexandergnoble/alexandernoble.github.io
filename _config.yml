@@ -19,7 +19,6 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Alexander Noble
-email: elbonxela@outlook.com
 description: >- 
   Computer Networks Graduate/Support Engineer. Mechanical keyboards and indoor plant hobbyist ⌨🌿.
 baseurl: "" # the subpath of your site, e.g. /blog
