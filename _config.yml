@@ -18,7 +18,8 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Elbon
+title: Alexander Noble
+email: [Contact form](http://elbon.tech/contact/)
 description: >- 
   Computer Networks Graduate/Support Engineer. Mechanical keyboards and indoor plant hobbyist ⌨🌿.
 baseurl: "" # the subpath of your site, e.g. /blog
