@@ -15,4 +15,4 @@ If you want to have a chat or ask about anything including any of the topics on 
 ✌
 
 Contact form:
-TBC
+[Click me!](http://elbon.tech/contact/)
