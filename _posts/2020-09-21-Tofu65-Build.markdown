@@ -4,10 +4,9 @@ title:  "TOFU 65% Mechanical Keyboard Build"
 date:   2020-09-21 11:21:56 +0100
 categories: Keyboards
 permalink: /:categories/:title
+---
 {% if post.tags.size > 0 %}
   Tag{% if post.tags.size > 1 %}s{% endif %}:
   {{ post.tags | sort | join: ", " }}
 {% endif %}
----
-
 Details to come.
